@@ -1,0 +1,32 @@
+.footer-container{
+    background: linear-gradient(to right, #800299, #129e00);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    color: #fff;
+    font-family: "DM Sans", sans-serif;
+}
+
+.title{
+    margin: 0px 0px 10px;
+    font-size: 14px
+}
+
+.subtitle{
+    margin: 0px 0px 10px;
+}
+
+.footer-button{
+    border-radius: 40px;
+    padding: 14px 30px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
